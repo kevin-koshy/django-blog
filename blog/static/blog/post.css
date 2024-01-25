@@ -1,0 +1,45 @@
+
+.post {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.post a {
+  text-decoration: none;
+  color: rgb(20, 41, 144);
+  background-color: rgba(255, 255, 255, 0.3);
+  transition: all 0.2s ease;
+  padding: 1rem;
+}
+
+.post a:hover,
+.post a:active {
+  transform: scale(1.1);
+  background-color: #657be8;
+  color: rgba(4, 5, 0, 0.87);
+}
+
+.post img {
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+  border-radius: 40%;
+}
+
+.post h3 {
+  margin: 0.25rem 0;
+}
+
+.post time {
+  color: #666666;
+  margin: 0.25rem;
+  font-style: italic;
+  font-size: 0.85rem;
+}
+
+.post:hover time,
+.post:active time {
+  color: #d30808;
+}
