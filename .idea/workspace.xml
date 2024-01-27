@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3e9c76f-f884-43f3-a88d-28ed7e5a8f7e" name="Changes" comment="" />
+    <list default="true" id="d3e9c76f-f884-43f3-a88d-28ed7e5a8f7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/static/blog/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/blog/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/all-posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/all-posts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/includes/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/includes/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +28,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="c5rjxtuq" />
@@ -39,7 +53,9 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/kevinkoshy/Documents/Development/Django/my_site/blog/static/blog/images",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -66,6 +82,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="my_site.settings" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/../django-env/bin/python3.10" />
       <option name="SDK_NAME" value="Python 3.10 (django-env)" />
@@ -95,7 +112,7 @@
       <updated>1705940256152</updated>
       <workItem from="1705940257956" duration="1542000" />
       <workItem from="1705941817439" duration="260000" />
-      <workItem from="1705942091033" duration="34184000" />
+      <workItem from="1705942091033" duration="50693000" />
     </task>
     <servers />
   </component>
